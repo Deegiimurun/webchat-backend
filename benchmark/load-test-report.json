@@ -1,0 +1,652 @@
+{
+  "aggregate": {
+    "counters": {
+      "vusers.created_by_name.Connect and idle": 10000,
+      "vusers.created": 10000,
+      "vusers.failed": 0,
+      "vusers.completed": 10000
+    },
+    "rates": {},
+    "firstCounterAt": 1693551454187,
+    "firstHistogramAt": 1693551554210,
+    "lastCounterAt": 1693551654594,
+    "lastHistogramAt": 1693551654594,
+    "firstMetricAt": 1693551454187,
+    "lastMetricAt": 1693551654594,
+    "period": 1693551650000,
+    "summaries": {
+      "vusers.session_length": {
+        "min": 100002.1,
+        "max": 100121.3,
+        "count": 10000,
+        "p50": 99741.2,
+        "median": 99741.2,
+        "p75": 99741.2,
+        "p90": 99741.2,
+        "p95": 99741.2,
+        "p99": 99741.2,
+        "p999": 99741.2
+      }
+    },
+    "histograms": {
+      "vusers.session_length": {
+        "min": 100002.1,
+        "max": 100121.3,
+        "count": 10000,
+        "p50": 99741.2,
+        "median": 99741.2,
+        "p75": 99741.2,
+        "p90": 99741.2,
+        "p95": 99741.2,
+        "p99": 99741.2,
+        "p999": 99741.2
+      }
+    }
+  },
+  "intermediate": [
+    {
+      "counters": {
+        "vusers.created_by_name.Connect and idle": 561,
+        "vusers.created": 561
+      },
+      "rates": {},
+      "firstCounterAt": 1693551454187,
+      "lastCounterAt": 1693551459993,
+      "firstMetricAt": 1693551454187,
+      "lastMetricAt": 1693551459993,
+      "period": "1693551450000",
+      "summaries": {},
+      "histograms": {}
+    },
+    {
+      "counters": {
+        "vusers.created_by_name.Connect and idle": 1000,
+        "vusers.created": 1000
+      },
+      "rates": {},
+      "firstCounterAt": 1693551460004,
+      "lastCounterAt": 1693551469993,
+      "firstMetricAt": 1693551460004,
+      "lastMetricAt": 1693551469993,
+      "period": "1693551460000",
+      "summaries": {},
+      "histograms": {}
+    },
+    {
+      "counters": {
+        "vusers.created_by_name.Connect and idle": 1000,
+        "vusers.created": 1000
+      },
+      "rates": {},
+      "firstCounterAt": 1693551470004,
+      "lastCounterAt": 1693551479993,
+      "firstMetricAt": 1693551470004,
+      "lastMetricAt": 1693551479993,
+      "period": "1693551470000",
+      "summaries": {},
+      "histograms": {}
+    },
+    {
+      "counters": {
+        "vusers.created_by_name.Connect and idle": 1000,
+        "vusers.created": 1000
+      },
+      "rates": {},
+      "firstCounterAt": 1693551480004,
+      "lastCounterAt": 1693551489993,
+      "firstMetricAt": 1693551480004,
+      "lastMetricAt": 1693551489993,
+      "period": "1693551480000",
+      "summaries": {},
+      "histograms": {}
+    },
+    {
+      "counters": {
+        "vusers.created_by_name.Connect and idle": 1000,
+        "vusers.created": 1000
+      },
+      "rates": {},
+      "firstCounterAt": 1693551490004,
+      "lastCounterAt": 1693551499993,
+      "firstMetricAt": 1693551490004,
+      "lastMetricAt": 1693551499993,
+      "period": "1693551490000",
+      "summaries": {},
+      "histograms": {}
+    },
+    {
+      "counters": {
+        "vusers.created_by_name.Connect and idle": 1000,
+        "vusers.created": 1000
+      },
+      "rates": {},
+      "firstCounterAt": 1693551500004,
+      "lastCounterAt": 1693551509993,
+      "firstMetricAt": 1693551500004,
+      "lastMetricAt": 1693551509993,
+      "period": "1693551500000",
+      "summaries": {},
+      "histograms": {}
+    },
+    {
+      "counters": {
+        "vusers.created_by_name.Connect and idle": 1000,
+        "vusers.created": 1000
+      },
+      "rates": {},
+      "firstCounterAt": 1693551510004,
+      "lastCounterAt": 1693551519993,
+      "firstMetricAt": 1693551510004,
+      "lastMetricAt": 1693551519993,
+      "period": "1693551510000",
+      "summaries": {},
+      "histograms": {}
+    },
+    {
+      "counters": {
+        "vusers.created_by_name.Connect and idle": 1000,
+        "vusers.created": 1000
+      },
+      "rates": {},
+      "firstCounterAt": 1693551520004,
+      "lastCounterAt": 1693551529993,
+      "firstMetricAt": 1693551520004,
+      "lastMetricAt": 1693551529993,
+      "period": "1693551520000",
+      "summaries": {},
+      "histograms": {}
+    },
+    {
+      "counters": {
+        "vusers.created_by_name.Connect and idle": 1000,
+        "vusers.created": 1000
+      },
+      "rates": {},
+      "firstCounterAt": 1693551530004,
+      "lastCounterAt": 1693551539993,
+      "firstMetricAt": 1693551530004,
+      "lastMetricAt": 1693551539993,
+      "period": "1693551530000",
+      "summaries": {},
+      "histograms": {}
+    },
+    {
+      "counters": {
+        "vusers.created_by_name.Connect and idle": 1000,
+        "vusers.created": 1000
+      },
+      "rates": {},
+      "firstCounterAt": 1693551540004,
+      "lastCounterAt": 1693551549993,
+      "firstMetricAt": 1693551540004,
+      "lastMetricAt": 1693551549993,
+      "period": "1693551540000",
+      "summaries": {},
+      "histograms": {}
+    },
+    {
+      "counters": {
+        "vusers.created_by_name.Connect and idle": 439,
+        "vusers.created": 439,
+        "vusers.failed": 0,
+        "vusers.completed": 561
+      },
+      "rates": {},
+      "firstCounterAt": 1693551550004,
+      "firstHistogramAt": 1693551554210,
+      "lastCounterAt": 1693551559997,
+      "lastHistogramAt": 1693551559997,
+      "firstMetricAt": 1693551550004,
+      "lastMetricAt": 1693551559997,
+      "period": "1693551550000",
+      "summaries": {
+        "vusers.session_length": {
+          "min": 100003.4,
+          "max": 100089.8,
+          "count": 561,
+          "p50": 99741.2,
+          "median": 99741.2,
+          "p75": 99741.2,
+          "p90": 99741.2,
+          "p95": 99741.2,
+          "p99": 99741.2,
+          "p999": 99741.2
+        }
+      },
+      "histograms": {
+        "vusers.session_length": {
+          "min": 100003.4,
+          "max": 100089.8,
+          "count": 561,
+          "p50": 99741.2,
+          "median": 99741.2,
+          "p75": 99741.2,
+          "p90": 99741.2,
+          "p95": 99741.2,
+          "p99": 99741.2,
+          "p999": 99741.2
+        }
+      }
+    },
+    {
+      "counters": {
+        "vusers.failed": 0,
+        "vusers.completed": 1000
+      },
+      "rates": {},
+      "firstCounterAt": 1693551560009,
+      "firstHistogramAt": 1693551560009,
+      "lastCounterAt": 1693551569998,
+      "lastHistogramAt": 1693551569998,
+      "firstMetricAt": 1693551560009,
+      "lastMetricAt": 1693551569998,
+      "period": "1693551560000",
+      "summaries": {
+        "vusers.session_length": {
+          "min": 100002.9,
+          "max": 100056.9,
+          "count": 1000,
+          "p50": 99741.2,
+          "median": 99741.2,
+          "p75": 99741.2,
+          "p90": 99741.2,
+          "p95": 99741.2,
+          "p99": 99741.2,
+          "p999": 99741.2
+        }
+      },
+      "histograms": {
+        "vusers.session_length": {
+          "min": 100002.9,
+          "max": 100056.9,
+          "count": 1000,
+          "p50": 99741.2,
+          "median": 99741.2,
+          "p75": 99741.2,
+          "p90": 99741.2,
+          "p95": 99741.2,
+          "p99": 99741.2,
+          "p999": 99741.2
+        }
+      }
+    },
+    {
+      "counters": {
+        "vusers.failed": 0,
+        "vusers.completed": 1000
+      },
+      "rates": {},
+      "firstCounterAt": 1693551570018,
+      "firstHistogramAt": 1693551570018,
+      "lastCounterAt": 1693551579998,
+      "lastHistogramAt": 1693551579998,
+      "firstMetricAt": 1693551570018,
+      "lastMetricAt": 1693551579998,
+      "period": "1693551570000",
+      "summaries": {
+        "vusers.session_length": {
+          "min": 100002.7,
+          "max": 100097.4,
+          "count": 1000,
+          "p50": 99741.2,
+          "median": 99741.2,
+          "p75": 99741.2,
+          "p90": 99741.2,
+          "p95": 99741.2,
+          "p99": 99741.2,
+          "p999": 99741.2
+        }
+      },
+      "histograms": {
+        "vusers.session_length": {
+          "min": 100002.7,
+          "max": 100097.4,
+          "count": 1000,
+          "p50": 99741.2,
+          "median": 99741.2,
+          "p75": 99741.2,
+          "p90": 99741.2,
+          "p95": 99741.2,
+          "p99": 99741.2,
+          "p999": 99741.2
+        }
+      }
+    },
+    {
+      "counters": {
+        "vusers.failed": 0,
+        "vusers.completed": 1000
+      },
+      "rates": {},
+      "firstCounterAt": 1693551580010,
+      "firstHistogramAt": 1693551580010,
+      "lastCounterAt": 1693551589997,
+      "lastHistogramAt": 1693551589997,
+      "firstMetricAt": 1693551580010,
+      "lastMetricAt": 1693551589997,
+      "period": "1693551580000",
+      "summaries": {
+        "vusers.session_length": {
+          "min": 100002.5,
+          "max": 100013.7,
+          "count": 1000,
+          "p50": 99741.2,
+          "median": 99741.2,
+          "p75": 99741.2,
+          "p90": 99741.2,
+          "p95": 99741.2,
+          "p99": 99741.2,
+          "p999": 99741.2
+        }
+      },
+      "histograms": {
+        "vusers.session_length": {
+          "min": 100002.5,
+          "max": 100013.7,
+          "count": 1000,
+          "p50": 99741.2,
+          "median": 99741.2,
+          "p75": 99741.2,
+          "p90": 99741.2,
+          "p95": 99741.2,
+          "p99": 99741.2,
+          "p999": 99741.2
+        }
+      }
+    },
+    {
+      "counters": {
+        "vusers.failed": 0,
+        "vusers.completed": 1000
+      },
+      "rates": {},
+      "firstCounterAt": 1693551590008,
+      "firstHistogramAt": 1693551590008,
+      "lastCounterAt": 1693551599998,
+      "lastHistogramAt": 1693551599998,
+      "firstMetricAt": 1693551590008,
+      "lastMetricAt": 1693551599998,
+      "period": "1693551590000",
+      "summaries": {
+        "vusers.session_length": {
+          "min": 100002.4,
+          "max": 100121.3,
+          "count": 1000,
+          "p50": 99741.2,
+          "median": 99741.2,
+          "p75": 99741.2,
+          "p90": 99741.2,
+          "p95": 99741.2,
+          "p99": 99741.2,
+          "p999": 99741.2
+        }
+      },
+      "histograms": {
+        "vusers.session_length": {
+          "min": 100002.4,
+          "max": 100121.3,
+          "count": 1000,
+          "p50": 99741.2,
+          "median": 99741.2,
+          "p75": 99741.2,
+          "p90": 99741.2,
+          "p95": 99741.2,
+          "p99": 99741.2,
+          "p999": 99741.2
+        }
+      }
+    },
+    {
+      "counters": {
+        "vusers.failed": 0,
+        "vusers.completed": 1000
+      },
+      "rates": {},
+      "firstCounterAt": 1693551600009,
+      "firstHistogramAt": 1693551600009,
+      "lastCounterAt": 1693551609997,
+      "lastHistogramAt": 1693551609997,
+      "firstMetricAt": 1693551600009,
+      "lastMetricAt": 1693551609997,
+      "period": "1693551600000",
+      "summaries": {
+        "vusers.session_length": {
+          "min": 100002.5,
+          "max": 100018.6,
+          "count": 1000,
+          "p50": 99741.2,
+          "median": 99741.2,
+          "p75": 99741.2,
+          "p90": 99741.2,
+          "p95": 99741.2,
+          "p99": 99741.2,
+          "p999": 99741.2
+        }
+      },
+      "histograms": {
+        "vusers.session_length": {
+          "min": 100002.5,
+          "max": 100018.6,
+          "count": 1000,
+          "p50": 99741.2,
+          "median": 99741.2,
+          "p75": 99741.2,
+          "p90": 99741.2,
+          "p95": 99741.2,
+          "p99": 99741.2,
+          "p999": 99741.2
+        }
+      }
+    },
+    {
+      "counters": {
+        "vusers.failed": 0,
+        "vusers.completed": 1000
+      },
+      "rates": {},
+      "firstCounterAt": 1693551610009,
+      "firstHistogramAt": 1693551610009,
+      "lastCounterAt": 1693551619996,
+      "lastHistogramAt": 1693551619996,
+      "firstMetricAt": 1693551610009,
+      "lastMetricAt": 1693551619996,
+      "period": "1693551610000",
+      "summaries": {
+        "vusers.session_length": {
+          "min": 100002.5,
+          "max": 100028.4,
+          "count": 1000,
+          "p50": 99741.2,
+          "median": 99741.2,
+          "p75": 99741.2,
+          "p90": 99741.2,
+          "p95": 99741.2,
+          "p99": 99741.2,
+          "p999": 99741.2
+        }
+      },
+      "histograms": {
+        "vusers.session_length": {
+          "min": 100002.5,
+          "max": 100028.4,
+          "count": 1000,
+          "p50": 99741.2,
+          "median": 99741.2,
+          "p75": 99741.2,
+          "p90": 99741.2,
+          "p95": 99741.2,
+          "p99": 99741.2,
+          "p999": 99741.2
+        }
+      }
+    },
+    {
+      "counters": {
+        "vusers.failed": 0,
+        "vusers.completed": 1000
+      },
+      "rates": {},
+      "firstCounterAt": 1693551620011,
+      "firstHistogramAt": 1693551620011,
+      "lastCounterAt": 1693551629997,
+      "lastHistogramAt": 1693551629997,
+      "firstMetricAt": 1693551620011,
+      "lastMetricAt": 1693551629997,
+      "period": "1693551620000",
+      "summaries": {
+        "vusers.session_length": {
+          "min": 100002.4,
+          "max": 100024.4,
+          "count": 1000,
+          "p50": 99741.2,
+          "median": 99741.2,
+          "p75": 99741.2,
+          "p90": 99741.2,
+          "p95": 99741.2,
+          "p99": 99741.2,
+          "p999": 99741.2
+        }
+      },
+      "histograms": {
+        "vusers.session_length": {
+          "min": 100002.4,
+          "max": 100024.4,
+          "count": 1000,
+          "p50": 99741.2,
+          "median": 99741.2,
+          "p75": 99741.2,
+          "p90": 99741.2,
+          "p95": 99741.2,
+          "p99": 99741.2,
+          "p999": 99741.2
+        }
+      }
+    },
+    {
+      "counters": {
+        "vusers.failed": 0,
+        "vusers.completed": 1000
+      },
+      "rates": {},
+      "firstCounterAt": 1693551630007,
+      "firstHistogramAt": 1693551630007,
+      "lastCounterAt": 1693551639996,
+      "lastHistogramAt": 1693551639996,
+      "firstMetricAt": 1693551630007,
+      "lastMetricAt": 1693551639996,
+      "period": "1693551630000",
+      "summaries": {
+        "vusers.session_length": {
+          "min": 100002.1,
+          "max": 100090.8,
+          "count": 1000,
+          "p50": 99741.2,
+          "median": 99741.2,
+          "p75": 99741.2,
+          "p90": 99741.2,
+          "p95": 99741.2,
+          "p99": 99741.2,
+          "p999": 99741.2
+        }
+      },
+      "histograms": {
+        "vusers.session_length": {
+          "min": 100002.1,
+          "max": 100090.8,
+          "count": 1000,
+          "p50": 99741.2,
+          "median": 99741.2,
+          "p75": 99741.2,
+          "p90": 99741.2,
+          "p95": 99741.2,
+          "p99": 99741.2,
+          "p999": 99741.2
+        }
+      }
+    },
+    {
+      "counters": {
+        "vusers.failed": 0,
+        "vusers.completed": 1000
+      },
+      "rates": {},
+      "firstCounterAt": 1693551640008,
+      "firstHistogramAt": 1693551640008,
+      "lastCounterAt": 1693551649997,
+      "lastHistogramAt": 1693551649997,
+      "firstMetricAt": 1693551640008,
+      "lastMetricAt": 1693551649997,
+      "period": "1693551640000",
+      "summaries": {
+        "vusers.session_length": {
+          "min": 100002.6,
+          "max": 100011,
+          "count": 1000,
+          "p50": 99741.2,
+          "median": 99741.2,
+          "p75": 99741.2,
+          "p90": 99741.2,
+          "p95": 99741.2,
+          "p99": 99741.2,
+          "p999": 99741.2
+        }
+      },
+      "histograms": {
+        "vusers.session_length": {
+          "min": 100002.6,
+          "max": 100011,
+          "count": 1000,
+          "p50": 99741.2,
+          "median": 99741.2,
+          "p75": 99741.2,
+          "p90": 99741.2,
+          "p95": 99741.2,
+          "p99": 99741.2,
+          "p999": 99741.2
+        }
+      }
+    },
+    {
+      "counters": {
+        "vusers.failed": 0,
+        "vusers.completed": 439
+      },
+      "rates": {},
+      "firstCounterAt": 1693551650008,
+      "firstHistogramAt": 1693551650008,
+      "lastCounterAt": 1693551654594,
+      "lastHistogramAt": 1693551654594,
+      "firstMetricAt": 1693551650008,
+      "lastMetricAt": 1693551654594,
+      "period": "1693551650000",
+      "summaries": {
+        "vusers.session_length": {
+          "min": 100002.5,
+          "max": 100016.1,
+          "count": 439,
+          "p50": 99741.2,
+          "median": 99741.2,
+          "p75": 99741.2,
+          "p90": 99741.2,
+          "p95": 99741.2,
+          "p99": 99741.2,
+          "p999": 99741.2
+        }
+      },
+      "histograms": {
+        "vusers.session_length": {
+          "min": 100002.5,
+          "max": 100016.1,
+          "count": 439,
+          "p50": 99741.2,
+          "median": 99741.2,
+          "p75": 99741.2,
+          "p90": 99741.2,
+          "p95": 99741.2,
+          "p99": 99741.2,
+          "p999": 99741.2
+        }
+      }
+    }
+  ]
+}

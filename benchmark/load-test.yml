@@ -1,0 +1,18 @@
+config:
+  target: "http://localhost:3000"
+  phases:
+    - duration: 100
+      arrivalRate: 100
+      name: 10000 users
+  engines:
+    socketio-v3: { }
+  socketio:
+    timeout: 1000
+scenarios:
+  - name: "Connect and idle"
+    engine: socketio-v3
+    flow:
+      - connect:
+          extraHeaders:
+            Authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImRlZWdpaTEiLCJpZCI6MiwiaWF0IjoxNjkzNDgzMTAyLCJleHAiOjE2OTYwNzUxMDJ9.AE53QfpLtTjAfP4XxvpMmaoxV9fPewryKvGcRMJa2j0
+      - think: 100
